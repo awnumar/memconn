@@ -7,7 +7,7 @@ memconn.a: $(filter-out %_test.go, $(wildcard *.go))
 	go build -o $@
 
 GO_VERSION ?= 1.9.4
-IMPORT_PATH := github.com/akutz/memconn
+IMPORT_PATH := github.com/awnumar/memconn
 
 docker-run:
 	docker run --rm -it \

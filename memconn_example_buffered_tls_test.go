@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/akutz/memconn"
+	"github.com/awnumar/memconn"
 )
 
 // ExampleBufferedTLS illustrates a server and client that

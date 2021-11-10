@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/akutz/memconn"
+	"github.com/awnumar/memconn"
 )
 
 // ExampleBuffered illustrates a server and client that

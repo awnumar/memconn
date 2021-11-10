@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/akutz/memconn"
+	"github.com/awnumar/memconn"
 )
 
 // ExampleHTTP illustrates an HTTP server and client that communicate

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/akutz/memconn"
+	"github.com/awnumar/memconn"
 )
 
 // ExampleMapNetwork illustrates how to create an HTTP server

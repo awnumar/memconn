@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/akutz/memconn"
+	"github.com/awnumar/memconn"
 )
 
 func BenchmarkMemb(b *testing.B) {

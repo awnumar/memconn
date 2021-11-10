@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/akutz/memconn"
+	"github.com/awnumar/memconn"
 )
 
 // TestMemuRace is for verifying there is no race condition when

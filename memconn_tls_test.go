@@ -14,7 +14,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/akutz/memconn"
+	"github.com/awnumar/memconn"
 )
 
 func TestBufferedTLS(t *testing.T) {
